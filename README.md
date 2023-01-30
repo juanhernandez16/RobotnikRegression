@@ -1,2 +1,3 @@
 # RobotnikRegression
- Taller 2 del Diplomado Python aplicado a la Ingeniería
+ Ejercicio de listas, ciclos y funciones. 
+ Basado en ejercicio de Codecademy.
